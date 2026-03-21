@@ -41,7 +41,7 @@ All deliverables are organized in this single GitHub repository.
 - **Module:** 3 (Online Tools for Learning & Collaboration)
 - **Platforms Used:** HackerRank, Google Forms
 - **Coding Challenge:** Completed "Solve Me First" on HackerRank
-- **Google Form Quiz:** [Take the Digital Literacy Quiz](https://forms.gle/YOUR_FORM_LINK_HERE)
+- **Google Form Quiz:** [Take the Digital Literacy Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc4bNPgu_t4PNy5K4DCU8FGPQKtGG3349h7mpA0Iwy8ijyxqw/viewform?usp=publish-editor)
 - **Deliverable:** [View Screenshots](./task-3-platforms/)
 
 ### Task 4 — Professional Email & Etiquette Guide
