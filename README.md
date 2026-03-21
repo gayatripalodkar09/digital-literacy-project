@@ -62,7 +62,7 @@ All deliverables are organized in this single GitHub repository.
 ## 🔗 Quick Links
 | Resource | Link |
 |----------|------|
-| Google Form Quiz | [Click Here](https://forms.gle/YOUR_LINK) |
+| Google Form Quiz | [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSc4bNPgu_t4PNy5K4DCU8FGPQKtGG3349h7mpA0Iwy8ijyxqw/viewform?usp=publish-editor) |
 | LinkedIn Profile | [Click Here](https://linkedin.com/in/YOUR_PROFILE) |
 | Kaggle Profile | [Click Here](https://kaggle.com/YOUR_PROFILE) |
 | HackerRank Profile | [Click Here](https://hackerrank.com/YOUR_PROFILE) |
